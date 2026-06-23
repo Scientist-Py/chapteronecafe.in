@@ -771,9 +771,9 @@ function App() {
         (activeTab === 'Popular' && ['Bestseller', 'Popular'].includes(item.tag))
       const matchesQuery =
         !normalizedQuery ||
-        [item.name, item.note, item.sub, item.category].some((value) =>
-          value.toLowerCase().includes(normalizedQuery),
-        )
+        [item.name, item.note, item.sub, item.category, item.tag]
+          .filter(Boolean)
+          .some((value) => value.toLowerCase().includes(normalizedQuery))
       return matchesTab && matchesQuery
     })
   }, [activeTab, query])
