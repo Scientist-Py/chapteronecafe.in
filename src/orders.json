@@ -1,0 +1,814 @@
+[
+  {
+    "id": "#CO17005",
+    "total": 788,
+    "deliveryType": "Dine In",
+    "createdAt": "09:56 pm",
+    "placedAt": 1779035214208,
+    "fullDate": "17/5/2026",
+    "items": [
+      {
+        "lineId": "pasta-Medium-plain",
+        "itemId": "pasta",
+        "name": "Truffle Mushroom Pasta",
+        "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=85",
+        "sub": "Grilled Chicken",
+        "qty": 1,
+        "unitPrice": 349,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      },
+      {
+        "lineId": "pizza-Medium-plain",
+        "itemId": "pizza",
+        "name": "Peri Peri Chicken Pizza",
+        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=900&q=85",
+        "sub": "Medium | Thin Crust",
+        "qty": 1,
+        "unitPrice": 399,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "12",
+    "customer": {
+      "name": "John Doe",
+      "phone": "+91 98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-17T16:26:53.705Z",
+      "localTime": "5/17/2026, 9:56:53 PM",
+      "machineId": "mid-kt8zteicr-1779035213709",
+      "ip": "223.188.3.64"
+    },
+    "status": "Ordered",
+    "statusUpdatedAt": "2026-05-17T16:26:58.000Z"
+  },
+  {
+    "id": "#CO48823",
+    "total": 788,
+    "deliveryType": "Dine In",
+    "createdAt": "10:01 pm",
+    "placedAt": 1779035478267,
+    "fullDate": "17/5/2026",
+    "items": [
+      {
+        "lineId": "pasta-Medium-plain",
+        "itemId": "pasta",
+        "name": "Truffle Mushroom Pasta",
+        "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=85",
+        "sub": "Grilled Chicken",
+        "qty": 1,
+        "unitPrice": 349,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      },
+      {
+        "lineId": "pizza-Medium-plain",
+        "itemId": "pizza",
+        "name": "Peri Peri Chicken Pizza",
+        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=900&q=85",
+        "sub": "Medium | Thin Crust",
+        "qty": 1,
+        "unitPrice": 399,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "12",
+    "customer": {
+      "name": "John Doe",
+      "phone": "+91 98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-17T16:31:17.706Z",
+      "localTime": "5/17/2026, 10:01:17 PM",
+      "machineId": "mid-kt8zteicr-1779035213709",
+      "ip": "223.188.3.64"
+    },
+    "status": "Ready to Serve",
+    "statusUpdatedAt": "2026-05-17T16:35:41.000Z"
+  },
+  {
+    "id": "#CO24318",
+    "total": 1137,
+    "deliveryType": "Dine In",
+    "createdAt": "10:02 am",
+    "placedAt": 1779856360441,
+    "fullDate": "27/5/2026",
+    "items": [
+      {
+        "lineId": "pizza-Medium-plain",
+        "itemId": "pizza",
+        "name": "Peri Peri Chicken Pizza",
+        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=900&q=85",
+        "sub": "Medium | Thin Crust",
+        "qty": 1,
+        "unitPrice": 399,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      },
+      {
+        "lineId": "pasta-Medium-plain",
+        "itemId": "pasta",
+        "name": "Truffle Mushroom Pasta",
+        "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=85",
+        "sub": "Grilled Chicken",
+        "qty": 2,
+        "unitPrice": 349,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "12",
+    "customer": {
+      "name": "rahul",
+      "phone": "98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-27T04:32:39.979Z",
+      "localTime": "5/27/2026, 10:02:39 AM",
+      "machineId": "mid-ihk9qjxs2-1778344242563",
+      "ip": "106.219.196.236"
+    },
+    "status": "Completed",
+    "statusUpdatedAt": "2026-05-27T04:36:50.119Z"
+  },
+  {
+    "id": "#CO38271",
+    "total": 469,
+    "deliveryType": "Dine In",
+    "createdAt": "10:07 am",
+    "placedAt": 1779856627947,
+    "fullDate": "27/5/2026",
+    "items": [
+      {
+        "lineId": "pasta-Medium-chicken",
+        "itemId": "pasta",
+        "name": "Truffle Mushroom Pasta",
+        "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=85",
+        "sub": "Grilled Chicken",
+        "qty": 1,
+        "unitPrice": 429,
+        "spice": "Medium",
+        "extras": {
+          "chicken": true,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "12",
+    "customer": {
+      "name": "ayush",
+      "phone": "98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-27T04:37:07.425Z",
+      "localTime": "5/27/2026, 10:07:07 AM",
+      "machineId": "mid-ihk9qjxs2-1778344242563",
+      "ip": "106.219.196.236"
+    },
+    "status": "Ordered",
+    "statusUpdatedAt": "2026-05-27T04:37:10.000Z"
+  },
+  {
+    "id": "#CO88128",
+    "total": 2035,
+    "deliveryType": "Dine In",
+    "createdAt": "10:21 am",
+    "placedAt": 1779857484995,
+    "fullDate": "27/5/2026",
+    "items": [
+      {
+        "lineId": "pizza-Medium-plain",
+        "itemId": "pizza",
+        "name": "Peri Peri Chicken Pizza",
+        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=900&q=85",
+        "sub": "Medium | Thin Crust",
+        "qty": 5,
+        "unitPrice": 399,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "12",
+    "customer": {
+      "name": "Aryan",
+      "phone": "+91 98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-27T04:51:24.579Z",
+      "localTime": "5/27/2026, 10:21:24 AM",
+      "machineId": "mid-ihk9qjxs2-1778344242563",
+      "ip": "106.219.196.236"
+    },
+    "status": "Preparing",
+    "statusUpdatedAt": "2026-05-27T04:53:05.079Z"
+  },
+  {
+    "id": "#CO64323",
+    "total": 688,
+    "deliveryType": "Dine In",
+    "createdAt": "10:24 am",
+    "placedAt": 1779857688793,
+    "fullDate": "27/5/2026",
+    "items": [
+      {
+        "lineId": "pizza-Medium-plain",
+        "itemId": "pizza",
+        "name": "Peri Peri Chicken Pizza",
+        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=900&q=85",
+        "sub": "Medium | Thin Crust",
+        "qty": 1,
+        "unitPrice": 399,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      },
+      {
+        "lineId": "burger-Medium-plain",
+        "itemId": "burger",
+        "name": "Classic Burger",
+        "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=900&q=85",
+        "sub": "Cheese Patty",
+        "qty": 1,
+        "unitPrice": 249,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "12",
+    "customer": {
+      "name": "Aryan",
+      "phone": "+91 98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-27T04:54:48.499Z",
+      "localTime": "5/27/2026, 10:24:48 AM",
+      "machineId": "mid-ihk9qjxs2-1778344242563",
+      "ip": "106.219.196.236"
+    },
+    "status": "Ordered",
+    "statusUpdatedAt": "2026-05-27T04:54:54.786Z"
+  },
+  {
+    "id": "#CO28588",
+    "total": 668,
+    "deliveryType": "Dine In",
+    "createdAt": "10:25 am",
+    "placedAt": 1779857735240,
+    "fullDate": "27/5/2026",
+    "items": [
+      {
+        "lineId": "pizza-Medium-plain",
+        "itemId": "pizza",
+        "name": "Peri Peri Chicken Pizza",
+        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=900&q=85",
+        "sub": "Medium | Thin Crust",
+        "qty": 1,
+        "unitPrice": 399,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      },
+      {
+        "lineId": "dessert-Medium-plain",
+        "itemId": "dessert",
+        "name": "Velvet Chocolate Slice",
+        "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=900&q=85",
+        "sub": "Dessert Plate",
+        "qty": 1,
+        "unitPrice": 229,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "14",
+    "customer": {
+      "name": "tu",
+      "phone": "+91 98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-27T04:55:34.946Z",
+      "localTime": "5/27/2026, 10:25:34 AM",
+      "machineId": "mid-ihk9qjxs2-1778344242563",
+      "ip": "106.219.196.236"
+    },
+    "status": "Ready to Serve",
+    "statusUpdatedAt": "2026-05-27T04:57:02.896Z"
+  },
+  {
+    "id": "#CO72749",
+    "total": 469,
+    "deliveryType": "Dine In",
+    "createdAt": "10:27 am",
+    "placedAt": 1779857863617,
+    "fullDate": "27/5/2026",
+    "items": [
+      {
+        "lineId": "pasta-Medium-chicken",
+        "itemId": "pasta",
+        "name": "Truffle Mushroom Pasta",
+        "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=85",
+        "sub": "Grilled Chicken",
+        "qty": 1,
+        "unitPrice": 429,
+        "spice": "Medium",
+        "extras": {
+          "chicken": true,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "14",
+    "customer": {
+      "name": "tuxzcv",
+      "phone": "+91 98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-27T04:57:43.298Z",
+      "localTime": "5/27/2026, 10:27:43 AM",
+      "machineId": "mid-ihk9qjxs2-1778344242563",
+      "ip": "106.219.196.236"
+    },
+    "status": "Completed",
+    "statusUpdatedAt": "2026-05-27T04:58:36.466Z"
+  },
+  {
+    "id": "#CO54287",
+    "total": 688,
+    "deliveryType": "Dine In",
+    "createdAt": "10:30 am",
+    "placedAt": 1779858025564,
+    "fullDate": "27/5/2026",
+    "items": [
+      {
+        "lineId": "pizza-Medium-plain",
+        "itemId": "pizza",
+        "name": "Peri Peri Chicken Pizza",
+        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=900&q=85",
+        "sub": "Medium | Thin Crust",
+        "qty": 1,
+        "unitPrice": 399,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      },
+      {
+        "lineId": "burger-Medium-plain",
+        "itemId": "burger",
+        "name": "Classic Burger",
+        "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=900&q=85",
+        "sub": "Cheese Patty",
+        "qty": 1,
+        "unitPrice": 249,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "14",
+    "customer": {
+      "name": "tusdhar",
+      "phone": "+91 98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-27T05:00:25.258Z",
+      "localTime": "5/27/2026, 10:30:25 AM",
+      "machineId": "mid-ihk9qjxs2-1778344242563",
+      "ip": "106.219.196.236"
+    },
+    "status": "Completed",
+    "statusUpdatedAt": "2026-05-27T05:16:42.977Z"
+  },
+  {
+    "id": "#CO35330",
+    "total": 838,
+    "deliveryType": "Dine In",
+    "createdAt": "10:48 am",
+    "placedAt": 1779859123804,
+    "fullDate": "27/5/2026",
+    "items": [
+      {
+        "lineId": "pizza-Medium-plain",
+        "itemId": "pizza",
+        "name": "Peri Peri Chicken Pizza",
+        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=900&q=85",
+        "sub": "Medium | Thin Crust",
+        "qty": 2,
+        "unitPrice": 399,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "14",
+    "customer": {
+      "name": "rahukl",
+      "phone": "+91 98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-27T05:18:43.345Z",
+      "localTime": "5/27/2026, 10:48:43 AM",
+      "machineId": "mid-ihk9qjxs2-1778344242563",
+      "ip": "106.219.196.236"
+    },
+    "status": "Cancelled",
+    "statusUpdatedAt": "2026-05-27T05:19:15.339Z"
+  },
+  {
+    "id": "#CO94466",
+    "total": 469,
+    "deliveryType": "Dine In",
+    "createdAt": "10:50 am",
+    "placedAt": 1779859254398,
+    "fullDate": "27/5/2026",
+    "items": [
+      {
+        "lineId": "pasta-Medium-chicken",
+        "itemId": "pasta",
+        "name": "Truffle Mushroom Pasta",
+        "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=85",
+        "sub": "Grilled Chicken",
+        "qty": 1,
+        "unitPrice": 429,
+        "spice": "Medium",
+        "extras": {
+          "chicken": true,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "14",
+    "customer": {
+      "name": "rahuklasdSD",
+      "phone": "+91 98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-27T05:20:54.115Z",
+      "localTime": "5/27/2026, 10:50:54 AM",
+      "machineId": "mid-ihk9qjxs2-1778344242563",
+      "ip": "106.219.196.236"
+    },
+    "status": "Cancelled",
+    "statusUpdatedAt": "2026-05-27T05:22:19.786Z"
+  },
+  {
+    "id": "#CO31066",
+    "total": 688,
+    "deliveryType": "Dine In",
+    "createdAt": "10:53 am",
+    "placedAt": 1779859386486,
+    "fullDate": "27/5/2026",
+    "items": [
+      {
+        "lineId": "pizza-Medium-plain",
+        "itemId": "pizza",
+        "name": "Peri Peri Chicken Pizza",
+        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=900&q=85",
+        "sub": "Medium | Thin Crust",
+        "qty": 1,
+        "unitPrice": 399,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      },
+      {
+        "lineId": "burger-Medium-plain",
+        "itemId": "burger",
+        "name": "Classic Burger",
+        "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=900&q=85",
+        "sub": "Cheese Patty",
+        "qty": 1,
+        "unitPrice": 249,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "14",
+    "customer": {
+      "name": "SDFSDF",
+      "phone": "+91 98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-27T05:23:06.202Z",
+      "localTime": "5/27/2026, 10:53:06 AM",
+      "machineId": "mid-ihk9qjxs2-1778344242563",
+      "ip": "106.219.196.236"
+    },
+    "status": "Ordered",
+    "statusUpdatedAt": "2026-05-27T05:23:10.015Z"
+  },
+  {
+    "id": "#CO24276",
+    "total": 1756,
+    "deliveryType": "Dine In",
+    "createdAt": "10:55 am",
+    "placedAt": 1779859504661,
+    "fullDate": "27/5/2026",
+    "items": [
+      {
+        "lineId": "pasta-Spicy-chicken",
+        "itemId": "pasta",
+        "name": "Truffle Mushroom Pasta",
+        "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=85",
+        "sub": "Grilled Chicken",
+        "qty": 4,
+        "unitPrice": 429,
+        "spice": "Spicy",
+        "extras": {
+          "chicken": true,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "14",
+    "customer": {
+      "name": "ASDFGISDF",
+      "phone": "+91 98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-27T05:25:04.363Z",
+      "localTime": "5/27/2026, 10:55:04 AM",
+      "machineId": "mid-ihk9qjxs2-1778344242563",
+      "ip": "106.219.196.236"
+    },
+    "status": "Ordered",
+    "statusUpdatedAt": "2026-05-27T05:25:07.140Z"
+  },
+  {
+    "id": "#CO68486",
+    "total": 389,
+    "deliveryType": "Dine In",
+    "createdAt": "10:57 am",
+    "placedAt": 1779859638906,
+    "fullDate": "27/5/2026",
+    "items": [
+      {
+        "lineId": "pasta-Medium-plain",
+        "itemId": "pasta",
+        "name": "Truffle Mushroom Pasta",
+        "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=85",
+        "sub": "Grilled Chicken",
+        "qty": 1,
+        "unitPrice": 349,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "14",
+    "customer": {
+      "name": "ASDFGISDF",
+      "phone": "+91 98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-27T05:27:18.579Z",
+      "localTime": "5/27/2026, 10:57:18 AM",
+      "machineId": "mid-ihk9qjxs2-1778344242563",
+      "ip": "106.219.196.236"
+    },
+    "status": "Ordered",
+    "statusUpdatedAt": "2026-05-27T05:27:22.125Z"
+  },
+  {
+    "id": "#CO30784",
+    "total": 1636,
+    "deliveryType": "Dine In",
+    "createdAt": "10:57 am",
+    "placedAt": 1779859669938,
+    "fullDate": "27/5/2026",
+    "items": [
+      {
+        "lineId": "pizza-Medium-plain",
+        "itemId": "pizza",
+        "name": "Peri Peri Chicken Pizza",
+        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=900&q=85",
+        "sub": "Medium | Thin Crust",
+        "qty": 4,
+        "unitPrice": 399,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "14",
+    "customer": {
+      "name": "LF",
+      "phone": "+91 98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-27T05:27:49.651Z",
+      "localTime": "5/27/2026, 10:57:49 AM",
+      "machineId": "mid-ihk9qjxs2-1778344242563",
+      "ip": "106.219.196.236"
+    },
+    "status": "Preparing",
+    "statusUpdatedAt": "2026-05-27T05:38:58.040Z"
+  },
+  {
+    "id": "#CO15682",
+    "total": 469,
+    "deliveryType": "Dine In",
+    "createdAt": "11:12 am",
+    "placedAt": 1779860571418,
+    "fullDate": "27/5/2026",
+    "items": [
+      {
+        "lineId": "pasta-Medium-chicken",
+        "itemId": "pasta",
+        "name": "Truffle Mushroom Pasta",
+        "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=85",
+        "sub": "Grilled Chicken",
+        "qty": 1,
+        "unitPrice": 429,
+        "spice": "Medium",
+        "extras": {
+          "chicken": true,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "14",
+    "customer": {
+      "name": "LF",
+      "phone": "+91 98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-27T05:42:51.002Z",
+      "localTime": "5/27/2026, 11:12:51 AM",
+      "machineId": "mid-ihk9qjxs2-1778344242563",
+      "ip": "106.219.196.236"
+    },
+    "status": "Ordered",
+    "statusUpdatedAt": "2026-05-27T05:42:56.331Z"
+  },
+  {
+    "id": "#CO34698",
+    "total": 1636,
+    "deliveryType": "Dine In",
+    "createdAt": "11:13 am",
+    "placedAt": 1779860617545,
+    "fullDate": "27/5/2026",
+    "items": [
+      {
+        "lineId": "pizza-Medium-plain",
+        "itemId": "pizza",
+        "name": "Peri Peri Chicken Pizza",
+        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=900&q=85",
+        "sub": "Medium | Thin Crust",
+        "qty": 4,
+        "unitPrice": 399,
+        "spice": "Medium",
+        "extras": {
+          "chicken": false,
+          "cheese": false
+        }
+      }
+    ],
+    "tableNumber": "12",
+    "customer": {
+      "name": "JHFGYH",
+      "phone": "+91 98765 43210",
+      "instructions": ""
+    },
+    "metadata": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "platform": "Win32",
+      "cookies": "",
+      "timestamp": "2026-05-27T05:43:37.244Z",
+      "localTime": "5/27/2026, 11:13:37 AM",
+      "machineId": "mid-ihk9qjxs2-1778344242563",
+      "ip": "106.219.196.236"
+    },
+    "status": "Completed",
+    "statusUpdatedAt": "2026-05-27T06:30:08.831Z"
+  }
+]
